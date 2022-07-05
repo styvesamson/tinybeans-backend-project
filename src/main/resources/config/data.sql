@@ -1,0 +1,10 @@
+insert into item (name, description, price, photo_url) values ('Lepilemur rufescens', '', 97.47, 'http://dummyimage.com/148x100.png/5fa2dd/ffffff');
+insert into item (name, description, price, photo_url) values ('Grus rubicundus', '', 10.06, 'http://dummyimage.com/128x100.png/ff4444/ffffff');
+insert into item (name, description, price, photo_url) values ('Nycticorax nycticorax', '', 75.22, 'http://dummyimage.com/101x100.png/5fa2dd/ffffff');
+insert into item (name, description, price, photo_url) values ('Myotis lucifugus', '', 43.04, 'http://dummyimage.com/211x100.png/cc0000/ffffff');
+insert into item (name, description, price, photo_url) values ('Buteo regalis', '', 20.03, 'http://dummyimage.com/126x100.png/dddddd/000000');
+insert into item (name, description, price, photo_url) values ('Nyctereutes procyonoides', '', 63.04, 'http://dummyimage.com/120x100.png/5fa2dd/ffffff');
+insert into item (name, description, price, photo_url) values ('Bison bison', '', 39.66, 'http://dummyimage.com/220x100.png/dddddd/000000');
+insert into item (name, description, price, photo_url) values ('Ciconia episcopus', '', 97.34, 'http://dummyimage.com/209x100.png/dddddd/000000');
+insert into item (name, description, price, photo_url) values ('Haliaetus vocifer', '', 91.73, 'http://dummyimage.com/171x100.png/dddddd/000000');
+insert into item (name, description, price, photo_url) values ('Epicrates cenchria maurus', '', 16.18, 'http://dummyimage.com/140x100.png/dddddd/000000');

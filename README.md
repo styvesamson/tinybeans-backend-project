@@ -1,12 +1,12 @@
 # Tinybeans Evaluation
 
-**Congratulations on making it to the next round!** 
+**Thanks for giving me honest feadback** 
 
 
 Download the contents of this repo, and complete the assignment according to the details below. 
 Once complete, upload publicly to your Git provider of choice (Github/Gitlab/Bitbucket) and share the repository link with the tinybeans team.
 
-NOTE: If you are on windows, make sure to clone the repo using `git clone git@github.com:tinybeanskids/tinybeans-backend-project.git --config core.autocrlf=input` to avoid issues starting up
+NOTE: If you are on windows, make sure to clone the repo using `git clone git@github.com:styvesamson/tinybeans-backend-project.git --config core.autocrlf=input` to avoid issues starting up
 
 
 ## How to run it
@@ -28,7 +28,9 @@ and if opting to use react you can verify its up and running by going to `http:/
 Both projects have `hot reload` capability, saving and/or recompiling a class will cause the docker project to reload
 
 
-## Assignment
+## Migrate test data to the Database
+
+Execute manualy SQL scripts in the file `resources/config/data.sql`
 
 This repository is already setup using the following technologies:
 
@@ -42,12 +44,12 @@ You’ll be making a web app with three screens:
 ![Overview](docs/img/overview.png)
 
 
-The requirements are
+The requirements Checklist
 
-1. As a customer I want to see a list of products. 
-2. As a customer I want to select a product to purchase. 
-3. As a customer I want to pay for the product with my credit card. 
-4. As a customer I want to see confirmation that I’ve paid for the product.
+1. As a customer I want to see a list of products => Done
+2. As a customer I want to select a product to purchase =>Done 
+3. As a customer I want to pay for the product with my credit card => Doing
+4. As a customer I want to see confirmation that I’ve paid for the product =>  Doing
 
 
 #### Product screen 
